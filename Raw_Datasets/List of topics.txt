@@ -1,0 +1,20 @@
+Predicted Variables :
+Life Expectancy at Birth
+#Life Expectancy at Birth, female, male
+
+Variables to be used for Production :
+GDP per Capita (Economy and Growth)
+Food Production Index (Agricultural and Rural Dev.)
+School Enrollment, primary and Secondary, Gender Parity Index (Aid Effectiveness)
+Rural Population percentage (Agricultural and Rural Dev.)
+Total Greenhouse gas emissions (Climate Change)
+Electric Power Consumption (Climate Change)
+Access to Electricity (Climate Change)
+Inflation (Economy and Growth)
+Literacy Rate, adult male + adult female (Gender)
+Unemployment, total (Education)
+Risk of Catastropic expenditure for surgical care (Health)
+Immunization, DPT + Immunization, Measles (Health)
+Population Density (Urban Development)
+Mortality Caused by road traffic injury (Health)
+
