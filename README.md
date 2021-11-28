@@ -1,2 +1,2 @@
-# DS203_Project
-This is the location where we have collected the datasets and our project notebooks.
+# Life Expectancy Dependence on Socioeconomic Factors
+This is the location where we have collected the datasets and our project notebooks for the course project DS203 - Programming for Data Science.
